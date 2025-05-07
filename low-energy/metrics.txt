@@ -1,0 +1,6 @@
+probe_normal val loss: 2.823532819747925
+probe_wall val loss: 3.2708802223205566
+probe_wall_other val loss: 3.231367826461792
+probe_expert val loss:: 3.937670946121216
+Total Trainable Parameters: 8,533,317
+python run.py --train --epochs 8
